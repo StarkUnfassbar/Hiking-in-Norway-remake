@@ -1,0 +1,13 @@
+@font-face{
+    font-family: "Bangers";
+
+    src: url(../fonts/Bangers-Regular.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "OpenSansBold";
+    font-style: normal;
+  
+    src: url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff")
+}
